@@ -1,0 +1,14 @@
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.AssemblyInfoInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.AssemblyInfo.cs
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.csproj.CoreCompileInputs.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.exe
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.deps.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.runtimeconfig.json
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\bin\Debug\net6.0\Krokodillespillet.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\obj\Debug\net6.0\refint\Krokodillespillet.dll
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.pdb
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\obj\Debug\net6.0\Krokodillespillet.genruntimeconfig.cache
+C:\Users\lapha\OneDrive\Dokumenter\Emne 3 GET\Datatyper\Krokodillespillet\Krokodillespillet\obj\Debug\net6.0\ref\Krokodillespillet.dll
